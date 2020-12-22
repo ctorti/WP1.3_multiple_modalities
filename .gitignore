@@ -1,1 +1,18 @@
-/Notepad files
+# Ignore any files in any directory called:
+.ipynb_checkpoints/
+__pycache__/
+Archive/
+MIRTK_python_examples(MA)/
+NCITA_coding_task/
+*.log
+*.txt
+*.[0-9].txt
+*.ipynb
+*.docx
+*.pptx
+*.nii
+*.csv
+2020-05-28_Outputs/
+*.mat
+*.npy
+*.json
